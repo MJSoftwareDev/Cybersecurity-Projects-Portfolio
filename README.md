@@ -95,12 +95,3 @@ Hi, I'm **MJSoftwareDev**, an **innovative technologist** with a diverse backgro
 | **IAM (Identity & Access Management)** | **RBAC, MAC, DAC, ABAC** for access control |
 | **Threat Modeling** | **STRIDE, DREAD, MITRE ATT&CK** |
 
----
-
-## 📚 Setup
-
-To clone and run this repository:
-
-```bash
-git clone https://github.com/MJSoftwareDev/Cybersecurity-Projects-Portfolio.git
-cd Cybersecurity-Projects-Portfolio
